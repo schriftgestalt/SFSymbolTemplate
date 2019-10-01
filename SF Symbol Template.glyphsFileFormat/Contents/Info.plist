@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>18G95</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>svg</string>
+			</array>
+			<key>CFBundleTypeRole</key>
+			<string>Writer</string>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>public.svg-image</string>
+			</array>
+			<key>LSTypeIsPackage</key>
+			<false/>
+		</dict>
+	</array>
+	<key>CFBundleExecutable</key>
+	<string>SF Symbol Template</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.schriftgestaltung.SF-Symbol-Template</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>SF Symbol Template</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>CFBundleTypeExtensions</key>
+	<array>
+		<string>svg</string>
+	</array>
+	<key>CFBundleTypeRole</key>
+	<string>Exporter</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>11A420a</string>
+	<key>DTPlatformVersion</key>
+	<string>GM</string>
+	<key>DTSDKBuild</key>
+	<string>19A547</string>
+	<key>DTSDKName</key>
+	<string>macosx10.15</string>
+	<key>DTXcode</key>
+	<string>1100</string>
+	<key>DTXcodeBuild</key>
+	<string>11A420a</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.9</string>
+	<key>NSPrincipalClass</key>
+	<string>SF_Symbol_Template</string>
+</dict>
+</plist>

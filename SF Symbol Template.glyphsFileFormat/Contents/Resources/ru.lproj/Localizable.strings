@@ -1,0 +1,21 @@
+/* Export Panel */
+"Choose Folder" = "Выберите папку";
+
+/* Export Panel */
+"Export Font" = "Экспортировать";
+
+/* filter error message */
+"It needs a “Weight” and “Size” axis" = "It needs a “Weight” and “Size” axis";
+
+/* file open button title. */
+"Open" = "Открыть";
+
+/* Export Panel */
+"Please select a valid folder." = "Пожалуйста, выберите существующую папку.";
+
+/* import menu title */
+"Symbol Template…" = "Symbol Template…";
+
+/* filter error message */
+"This is not a Symbol font" = "This is not a Symbol font";
+

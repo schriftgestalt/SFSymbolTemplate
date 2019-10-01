@@ -1,0 +1,21 @@
+/* Export Panel */
+"Choose Folder" = "Vybrat složku.";
+
+/* Export Panel */
+"Export Font" = "Exportovat font";
+
+/* filter error message */
+"It needs a “Weight” and “Size” axis" = "It needs a “Weight” and “Size” axis";
+
+/* file open button title. */
+"Open" = "Otevřít";
+
+/* Export Panel */
+"Please select a valid folder." = "Vyberte prosím platnou složku.";
+
+/* import menu title */
+"Symbol Template…" = "Symbol Template…";
+
+/* filter error message */
+"This is not a Symbol font" = "This is not a Symbol font";
+

@@ -1,0 +1,21 @@
+/* Export Panel */
+"Choose Folder" = "フォルダを選択してください。";
+
+/* Export Panel */
+"Export Font" = "フォントを出力";
+
+/* filter error message */
+"It needs a “Weight” and “Size” axis" = "It needs a “Weight” and “Size” axis";
+
+/* file open button title. */
+"Open" = "開く";
+
+/* Export Panel */
+"Please select a valid folder." = "有効なフォルダを指定してください。";
+
+/* import menu title */
+"Symbol Template…" = "Symbol Template…";
+
+/* filter error message */
+"This is not a Symbol font" = "This is not a Symbol font";
+

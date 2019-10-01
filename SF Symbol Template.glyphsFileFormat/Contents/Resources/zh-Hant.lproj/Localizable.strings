@@ -1,0 +1,21 @@
+/* Export Panel */
+"Choose Folder" = "請選擇檔案夾";
+
+/* Export Panel */
+"Export Font" = "輸出字型";
+
+/* filter error message */
+"It needs a “Weight” and “Size” axis" = "It needs a “Weight” and “Size” axis";
+
+/* file open button title. */
+"Open" = "打開";
+
+/* Export Panel */
+"Please select a valid folder." = "請選擇有效的檔案夾";
+
+/* import menu title */
+"Symbol Template…" = "Symbol Template…";
+
+/* filter error message */
+"This is not a Symbol font" = "This is not a Symbol font";
+
