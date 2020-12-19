@@ -1,6 +1,9 @@
 /* Export Panel */
 "Choose Folder" = "Scegli cartella.";
 
+/* Choose image file open dialog title. */
+"Choose template file" = "Choose template file";
+
 /* Export Panel */
 "Export Font" = "Esporta Font";
 
@@ -12,9 +15,6 @@
 
 /* Export Panel */
 "Please select a valid folder." = "Selezionare una cartella valida.";
-
-/* import menu title */
-"Symbol Template…" = "Symbol Template…";
 
 /* filter error message */
 "This is not a Symbol font" = "This is not a Symbol font";

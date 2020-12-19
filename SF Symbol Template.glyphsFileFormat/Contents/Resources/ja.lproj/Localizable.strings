@@ -1,6 +1,9 @@
 /* Export Panel */
 "Choose Folder" = "フォルダを選択してください。";
 
+/* Choose image file open dialog title. */
+"Choose template file" = "Choose template file";
+
 /* Export Panel */
 "Export Font" = "フォントを出力";
 
@@ -12,9 +15,6 @@
 
 /* Export Panel */
 "Please select a valid folder." = "有効なフォルダを指定してください。";
-
-/* import menu title */
-"Symbol Template…" = "Symbol Template…";
 
 /* filter error message */
 "This is not a Symbol font" = "This is not a Symbol font";

@@ -4,24 +4,28 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Resources/ExportIcon.tiff</key>
+		<key>Resources/Base.lproj/SFSymbolTemplateDialog.nib</key>
 		<data>
-		h2H9yQaA4OAV2J+IER9S8Xmi23Y=
+		R18OCiwLRSpfS7+7gs2iLnZacdI=
+		</data>
+		<key>Resources/SFSymbolTemplate.pdf</key>
+		<data>
+		oXFYwBFTgoAp1HAfONLvmeGWfzo=
 		</data>
 		<key>Resources/cs.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			r9R6uq6RoX381iOgi9bZuR0QD90=
+			uX7pVi+zca/1hLNA1CMDwLm5btQ=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/cs.lproj/SFSymbolTemplateDialog.nib</key>
+		<key>Resources/cs.lproj/SFSymbolTemplateDialog.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tsklId3EBA/RJycedB3Zel4aRQo=
+			rWKgoxVJzRP/kq9bQPQvDAMGnvs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -30,16 +34,16 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GUBZ1TlL9MFaaMnMJSYhTiLsmj0=
+			Duv1Z+b2fimdmgOmKKnuTU8C04w=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/de.lproj/SFSymbolTemplateDialog.nib</key>
+		<key>Resources/de.lproj/SFSymbolTemplateDialog.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MvbhjsJJiUnGC9aD1YA4coacyuc=
+			6PKzDFaTikR8OrjUkXKb43VMFno=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -48,16 +52,16 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			OsBr+AionFCAUtRYv1sY/MWqzo0=
+			wy7whZ/ipGGcdJbvN5GuhrOI/40=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/en.lproj/SFSymbolTemplateDialog.nib</key>
+		<key>Resources/en.lproj/SFSymbolTemplateDialog.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EjyVQvXxhHaYgM2KJLlfyqFXa2s=
+			g4G6KzLu1fkHGLVflJufrpHFdnM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -66,16 +70,16 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1Dg14Wsvd7aWS7hlGyRjB1AnS+k=
+			M58tca7kERVLKoEIJXSv+EVkfpQ=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/es.lproj/SFSymbolTemplateDialog.nib</key>
+		<key>Resources/es.lproj/SFSymbolTemplateDialog.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bOjKe8/wZa19b+kFePXsiS9N4aQ=
+			R5p85Rh6eGtBMV+GKPfyk+6R85U=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -84,38 +88,38 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dXNphw2L/avzA5oBZO5qL9x8juo=
+			xy35riqkk+SQwsWAsEpJjCntLmo=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/fr.lproj/SFSymbolTemplateDialog.nib</key>
+		<key>Resources/fr.lproj/SFSymbolTemplateDialog.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2IHZ1pH+a0nIJArV51QiYs2Hdik=
+			v5QG59Zf9ih5M9ivajjm7/7IxF4=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>Resources/iconTemplate.svg</key>
 		<data>
-		wdKdZuB1uwFfL0N3n+rqZFWxeJk=
+		BMD8FYonHBV8Vf1fQA6EAr14fCY=
 		</data>
 		<key>Resources/it.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/4SDmDA4zMNwiJyyXs29sha3kDY=
+			Z7GqtEkhawKSjMD7KeU9CM+3zGU=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/it.lproj/SFSymbolTemplateDialog.nib</key>
+		<key>Resources/it.lproj/SFSymbolTemplateDialog.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cxZBjZv6/RKa8Pjy5iFNDRH5WM8=
+			RxqtxYQTSttc768zWnUDGF7PHgs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -124,16 +128,16 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			taywmCcGAprYbao5jQMnz9HrW0Y=
+			yTA4cBSvmgPyoR/USQop7P0QuQI=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/ja.lproj/SFSymbolTemplateDialog.nib</key>
+		<key>Resources/ja.lproj/SFSymbolTemplateDialog.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			D5OZSPVbV6yhcDJdNWutWfCUn4E=
+			MmqcUQQ1pPq74Ym0882Xd4j8wkQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -142,16 +146,16 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NOW2IU4Xnx+GasVt6sTdFkBD4cY=
+			UKWfBYDgPmUgl+rA75dxdgp3C9s=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/ko.lproj/SFSymbolTemplateDialog.nib</key>
+		<key>Resources/ko.lproj/SFSymbolTemplateDialog.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KLIRnARCUZLQVzsxJQ10Xlh4zIA=
+			9jRL8su/R+lfgTxw8Dpp7GWA8hs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -160,16 +164,16 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oDCSlYgfZXq2NZ623cmN1k1iZc0=
+			dsSkqHtcJcW65D/kLIUh6O7X3xM=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/pt.lproj/SFSymbolTemplateDialog.nib</key>
+		<key>Resources/pt.lproj/SFSymbolTemplateDialog.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			A0x5RykbOvkrlvrmrTcHXIkXhts=
+			71cKCFZe+JVLkYwQGy5IG6xJ3SY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -178,16 +182,16 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZdXBK8A0QZMxDS8gWzo2X0gy2/4=
+			JoBtA/9d6aTn8iT7l+ugwAvE7ns=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/ru.lproj/SFSymbolTemplateDialog.nib</key>
+		<key>Resources/ru.lproj/SFSymbolTemplateDialog.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eZ23o7cCStPee6qB60DBfaa9XbM=
+			vVzpYHQUwt73KGMqZSz8OElCXS0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -196,16 +200,34 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zpBnHAW62Seoj9ezmTPX9Ws7Ho8=
+			djIXLYr0WKCpZIJUjXBQa8dX6lk=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/tr.lproj/SFSymbolTemplateDialog.nib</key>
+		<key>Resources/tr.lproj/SFSymbolTemplateDialog.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OvpbHUrUCxwIClabmZwfnIZK3Bg=
+			Bt51dg95oJvr//cdBgVqgSM6d0U=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mXKNTY9FncnBsqZqCsDVEtfGadQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/SFSymbolTemplateDialog.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			E0Ch16y5pSl68SH5DHBEVeTtgbU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -214,34 +236,16 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			A3aJNT6hZq+hY8HfNe+JqRzqSAI=
+			JxQpH2oxFrVdRiodfikIOC8DNOw=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/zh-Hant.lproj/SFSymbolTemplateDialog.nib</key>
+		<key>Resources/zh-Hant.lproj/SFSymbolTemplateDialog.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3GN2Cw0ZE7iETYB0vWuVuWDZklI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/zh_CN.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			3zx/l+tebD6aErirE7vfMxkv4pk=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/zh_CN.lproj/SFSymbolTemplateDialog.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			oRoh3FmmC1aQ2NUo0bAxI0dVv54=
+			gT/CwcqAIC7T8C5WaPioFeZamw4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -249,39 +253,50 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Resources/ExportIcon.tiff</key>
+		<key>Resources/Base.lproj/SFSymbolTemplateDialog.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			h2H9yQaA4OAV2J+IER9S8Xmi23Y=
+			R18OCiwLRSpfS7+7gs2iLnZacdI=
 			</data>
 			<key>hash2</key>
 			<data>
-			xs74M0I/8SI1lKLrRnQcc6JZyRmyW2DmG6dpmZyTyRE=
+			TkBwJNLC+bLX07nCjPqEgARX5m6M992hYaGLMxyjq3Q=
+			</data>
+		</dict>
+		<key>Resources/SFSymbolTemplate.pdf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oXFYwBFTgoAp1HAfONLvmeGWfzo=
+			</data>
+			<key>hash2</key>
+			<data>
+			nJxxuYCseLwAOX5YJbwdosowOcZ8sJD2G/IDNnuOXf4=
 			</data>
 		</dict>
 		<key>Resources/cs.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			r9R6uq6RoX381iOgi9bZuR0QD90=
+			uX7pVi+zca/1hLNA1CMDwLm5btQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			kvmmbQPkMiaIqgqseyLLjvQj8S5c84w0bRYOWONtqOk=
+			Q9mSgFUxULbpiCur1jCg4sUW1QTMZTsptNsZfg+2NbQ=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/cs.lproj/SFSymbolTemplateDialog.nib</key>
+		<key>Resources/cs.lproj/SFSymbolTemplateDialog.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tsklId3EBA/RJycedB3Zel4aRQo=
+			rWKgoxVJzRP/kq9bQPQvDAMGnvs=
 			</data>
 			<key>hash2</key>
 			<data>
-			5bG4yLWjshZmUr0CKO3j9u8TiRZvE3HKMkdYx0E+wBE=
+			M2wVYLpi9KFkFITbJJy5bxKY/V6B/GE4t9uk1kMkYvM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -290,24 +305,24 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GUBZ1TlL9MFaaMnMJSYhTiLsmj0=
+			Duv1Z+b2fimdmgOmKKnuTU8C04w=
 			</data>
 			<key>hash2</key>
 			<data>
-			FhdNKGXSSFsOQ2l40hOnQQvDJ/5q2leCn+Un25s2rY0=
+			VEkrf7w8HzK0IG3ewVi3QL0ayCmAKJv1EdXs7wQF/go=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/de.lproj/SFSymbolTemplateDialog.nib</key>
+		<key>Resources/de.lproj/SFSymbolTemplateDialog.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MvbhjsJJiUnGC9aD1YA4coacyuc=
+			6PKzDFaTikR8OrjUkXKb43VMFno=
 			</data>
 			<key>hash2</key>
 			<data>
-			MvSn3SpAhOkvSrocxQlj7addfT951tq6uVwtC+iSv/E=
+			FomwGVAFkmtCwAkT3aeQ0YesBqlxgEzanfgL8BNgPLs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -316,24 +331,24 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			OsBr+AionFCAUtRYv1sY/MWqzo0=
+			wy7whZ/ipGGcdJbvN5GuhrOI/40=
 			</data>
 			<key>hash2</key>
 			<data>
-			kWnchAu1agkwrPRTDdnhmlppdkz7iuJ35jdj7Z4kT5Y=
+			Zy3WAzR24MHe81QtdoZY9UOiCZhfrjU6faCdybkx6+o=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/en.lproj/SFSymbolTemplateDialog.nib</key>
+		<key>Resources/en.lproj/SFSymbolTemplateDialog.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EjyVQvXxhHaYgM2KJLlfyqFXa2s=
+			g4G6KzLu1fkHGLVflJufrpHFdnM=
 			</data>
 			<key>hash2</key>
 			<data>
-			ISLqSfQRCE8AsA5Y+tamKAz0cGyGTXTg8vN4GuUJeOQ=
+			XLqhYEEdbRES1DZT1id3iCJ4JuxHjyhdtk2v8Vxaz7g=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -342,24 +357,24 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1Dg14Wsvd7aWS7hlGyRjB1AnS+k=
+			M58tca7kERVLKoEIJXSv+EVkfpQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			Jon7djDipZnTENfqGqSHhcsjlcKT+ILexgE0kCdCn/8=
+			ErWV1Vjb5FqPzaDOlTp809r98U3RjD6eWQ0FarGXRlE=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/es.lproj/SFSymbolTemplateDialog.nib</key>
+		<key>Resources/es.lproj/SFSymbolTemplateDialog.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bOjKe8/wZa19b+kFePXsiS9N4aQ=
+			R5p85Rh6eGtBMV+GKPfyk+6R85U=
 			</data>
 			<key>hash2</key>
 			<data>
-			37MGNzLiHeTm6zEnHK3IyFENMg9ZFKF6nfbtk9JaxTg=
+			yV39lGX3lOBlGbyfbggmC80/duNYVXaGeeNPFairTfc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -368,24 +383,24 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dXNphw2L/avzA5oBZO5qL9x8juo=
+			xy35riqkk+SQwsWAsEpJjCntLmo=
 			</data>
 			<key>hash2</key>
 			<data>
-			0y32N3niqlXLccrc5y2TItO6birOMoZ6dnv1HPMDiNk=
+			hrmzWexmb4w43jjRz1bSrTKJctpseqIRdGntypTh5dM=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/fr.lproj/SFSymbolTemplateDialog.nib</key>
+		<key>Resources/fr.lproj/SFSymbolTemplateDialog.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2IHZ1pH+a0nIJArV51QiYs2Hdik=
+			v5QG59Zf9ih5M9ivajjm7/7IxF4=
 			</data>
 			<key>hash2</key>
 			<data>
-			SOZsM9qhU3D7RoDylu6Ozb6HBv5EQsVMC8BWesyJ+Fs=
+			X45u+dt2gigjSAabpcYqkrQNFQwbIbA2Jx+ChOHNq5c=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -394,35 +409,35 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wdKdZuB1uwFfL0N3n+rqZFWxeJk=
+			BMD8FYonHBV8Vf1fQA6EAr14fCY=
 			</data>
 			<key>hash2</key>
 			<data>
-			RR5nGecNlBaczdEljNSDrofz6NUyYIA+iUUxZUlnh/4=
+			kzndofZtdyDiank3oRczVo/XUo4oUzJVa9sAdLjJj+E=
 			</data>
 		</dict>
 		<key>Resources/it.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/4SDmDA4zMNwiJyyXs29sha3kDY=
+			Z7GqtEkhawKSjMD7KeU9CM+3zGU=
 			</data>
 			<key>hash2</key>
 			<data>
-			fYtOa9HZk7Q0dILgITNKKubnSnzRe65PptSo7gST5w8=
+			7I1Q5chP30FawwWxfMJTP/HzXHYz509bVMkBDyFEkmY=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/it.lproj/SFSymbolTemplateDialog.nib</key>
+		<key>Resources/it.lproj/SFSymbolTemplateDialog.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cxZBjZv6/RKa8Pjy5iFNDRH5WM8=
+			RxqtxYQTSttc768zWnUDGF7PHgs=
 			</data>
 			<key>hash2</key>
 			<data>
-			Nvd/pj5spE5u4FaroOOOfFvR8KQICqx8vCn1f4SG0/A=
+			y89GxMPwDvNBpC0lsLYpPG3znW6XWsgA5aF84leYb+o=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -431,24 +446,24 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			taywmCcGAprYbao5jQMnz9HrW0Y=
+			yTA4cBSvmgPyoR/USQop7P0QuQI=
 			</data>
 			<key>hash2</key>
 			<data>
-			+Y2bb9fJBTIPUleuT67t2wL6nVlmeRkTm6WaQEbLek0=
+			23LIqmTKQZHAFGuivgJ1GkUarygS6TuzevlzRXmlNFc=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/ja.lproj/SFSymbolTemplateDialog.nib</key>
+		<key>Resources/ja.lproj/SFSymbolTemplateDialog.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			D5OZSPVbV6yhcDJdNWutWfCUn4E=
+			MmqcUQQ1pPq74Ym0882Xd4j8wkQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			iaajxjVJWtjq40Gdkq/P8Bdt7G9Pns2/9XUkqFa/z58=
+			Xd+j4ztx0qXFkRTc9tt9NfDsT92b+EQ0dH70WOwBvTQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -457,24 +472,24 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NOW2IU4Xnx+GasVt6sTdFkBD4cY=
+			UKWfBYDgPmUgl+rA75dxdgp3C9s=
 			</data>
 			<key>hash2</key>
 			<data>
-			FhRWWjSixTqdKQyD5p9WlakR7Jbd6L5f1n1+O4NLUhA=
+			3iXnw0d4H8idDQ3amwPQFAZX4sWj3DZtekKX/QXBpmI=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/ko.lproj/SFSymbolTemplateDialog.nib</key>
+		<key>Resources/ko.lproj/SFSymbolTemplateDialog.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KLIRnARCUZLQVzsxJQ10Xlh4zIA=
+			9jRL8su/R+lfgTxw8Dpp7GWA8hs=
 			</data>
 			<key>hash2</key>
 			<data>
-			DCZas3Td7ANmIhN0zIWQX9esA5vGBO2SGUQYbnWPPu0=
+			/K3AI6TFFzr0jxpQs57RASa7wBl2ouYekcHrlZuOa2A=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -483,24 +498,24 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oDCSlYgfZXq2NZ623cmN1k1iZc0=
+			dsSkqHtcJcW65D/kLIUh6O7X3xM=
 			</data>
 			<key>hash2</key>
 			<data>
-			cTah2Cj4D88qmKwwtw/7PJ1NYE0jyyV/4xMXMoXF6nI=
+			+CEtr/AJXEjnLCEZdgZVEySen3Ojp9h7cQNJEzbqu6U=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/pt.lproj/SFSymbolTemplateDialog.nib</key>
+		<key>Resources/pt.lproj/SFSymbolTemplateDialog.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			A0x5RykbOvkrlvrmrTcHXIkXhts=
+			71cKCFZe+JVLkYwQGy5IG6xJ3SY=
 			</data>
 			<key>hash2</key>
 			<data>
-			U8kBeul6ynciIeB5PzrInx7c7tYj3PlvsmtTO4IYQTo=
+			zw0JhweCQzFnwY5UQWFGqk9Mfwj89V9pOk4ilyAoN04=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -509,24 +524,24 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZdXBK8A0QZMxDS8gWzo2X0gy2/4=
+			JoBtA/9d6aTn8iT7l+ugwAvE7ns=
 			</data>
 			<key>hash2</key>
 			<data>
-			f2/qBWBgap6y70jk6beKVpTSeP/R6j2q5zlN7Ldpjw4=
+			HR5ReAbTHXcpAStot1qPbqAXImjEdD+dF0nkw2OI7e0=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/ru.lproj/SFSymbolTemplateDialog.nib</key>
+		<key>Resources/ru.lproj/SFSymbolTemplateDialog.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eZ23o7cCStPee6qB60DBfaa9XbM=
+			vVzpYHQUwt73KGMqZSz8OElCXS0=
 			</data>
 			<key>hash2</key>
 			<data>
-			PwMxonK6bZnKosnvG2KWuCn6vcL8cX8pwvLXeuY0jCQ=
+			wtFHxBr9bRByBe5m2keB31siSDsUqI/0kvZUZwcJaYE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -535,24 +550,50 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zpBnHAW62Seoj9ezmTPX9Ws7Ho8=
+			djIXLYr0WKCpZIJUjXBQa8dX6lk=
 			</data>
 			<key>hash2</key>
 			<data>
-			qB5IlyNLdaw1BkMuIcA+fPDsOSW/HzQkb9tZgP32Nzo=
+			OsmcQEkMGuHDyRRYAP+dRC6slYp/HOreZT6TLJJ9DoY=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/tr.lproj/SFSymbolTemplateDialog.nib</key>
+		<key>Resources/tr.lproj/SFSymbolTemplateDialog.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OvpbHUrUCxwIClabmZwfnIZK3Bg=
+			Bt51dg95oJvr//cdBgVqgSM6d0U=
 			</data>
 			<key>hash2</key>
 			<data>
-			qANed0CrmKK5h2CN5SxCe3YsC2qMDPP6+URjXyv4k3k=
+			eEviPxfBwnTTPv1EUikhtHLC5n2alR5jXS44pUrHeGc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mXKNTY9FncnBsqZqCsDVEtfGadQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			DQRJ+fi0nNRuqHY825tQs1AO5gMTCepVE5Ww8ZMlaI4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/SFSymbolTemplateDialog.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			E0Ch16y5pSl68SH5DHBEVeTtgbU=
+			</data>
+			<key>hash2</key>
+			<data>
+			/pWA8ZaNl9vkZIp4+of0KAKCiLfuQTcU/u+24Y3ByHI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -561,50 +602,24 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			A3aJNT6hZq+hY8HfNe+JqRzqSAI=
+			JxQpH2oxFrVdRiodfikIOC8DNOw=
 			</data>
 			<key>hash2</key>
 			<data>
-			bOsDL/DT6npSc2Mfzvq6H7BgCCoxO7/BvbyrE5VXHT0=
+			BoYHX/zoV21rThp2I/NZEkfoyj4ZXnphbtu286FPjlA=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/zh-Hant.lproj/SFSymbolTemplateDialog.nib</key>
+		<key>Resources/zh-Hant.lproj/SFSymbolTemplateDialog.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3GN2Cw0ZE7iETYB0vWuVuWDZklI=
+			gT/CwcqAIC7T8C5WaPioFeZamw4=
 			</data>
 			<key>hash2</key>
 			<data>
-			NPhnfa8qdRKkta5NiE6f/ePG6anZcuPYSVUqz269BJM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/zh_CN.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			3zx/l+tebD6aErirE7vfMxkv4pk=
-			</data>
-			<key>hash2</key>
-			<data>
-			ynz8qX5ECE5hTTT+qCcOe5DeoHbwX7K5qPCqPUKgekw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/zh_CN.lproj/SFSymbolTemplateDialog.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			oRoh3FmmC1aQ2NUo0bAxI0dVv54=
-			</data>
-			<key>hash2</key>
-			<data>
-			Ge4lYEPhpGdD3Bx5VjVGEth3MFjFcQRa0zVZTMyHMBo=
+			NR+YsLMK7snq2aShhJ6z1p+uMHmwawHO0PcMeBEMkG8=
 			</data>
 			<key>optional</key>
 			<true/>

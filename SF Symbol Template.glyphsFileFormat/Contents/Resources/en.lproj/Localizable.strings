@@ -1,6 +1,9 @@
 /* Export Panel */
 "Choose Folder" = "Choose Folder";
 
+/* Choose image file open dialog title. */
+"Choose template file" = "Choose template file";
+
 /* Export Panel */
 "Export Font" = "Export Font";
 
@@ -13,7 +16,7 @@
 /* Export Panel */
 "Please select a valid folder." = "Please select a valid folder.";
 
-/* import menu title */
+/* Menu item title */
 "Symbol Template…" = "Symbol Template…";
 
 /* filter error message */

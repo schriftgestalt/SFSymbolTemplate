@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>18G95</string>
+	<string>19H114</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDocumentTypes</key>
@@ -26,13 +26,13 @@
 	<key>CFBundleExecutable</key>
 	<string>SF Symbol Template</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.schriftgestaltung.SF-Symbol-Template</string>
+	<string>com.glyphsapp.SF-Symbol-Template</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
 	<string>SF Symbol Template</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0</string>
+	<string>3.0.2</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>MacOSX</string>
@@ -44,24 +44,26 @@
 	<key>CFBundleTypeRole</key>
 	<string>Exporter</string>
 	<key>CFBundleVersion</key>
-	<string>1</string>
+	<string>3045</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>11A420a</string>
+	<string>12B45b</string>
+	<key>DTPlatformName</key>
+	<string>macosx</string>
 	<key>DTPlatformVersion</key>
-	<string>GM</string>
+	<string>11.0</string>
 	<key>DTSDKBuild</key>
-	<string>19A547</string>
+	<string>20A2408</string>
 	<key>DTSDKName</key>
-	<string>macosx10.15</string>
+	<string>macosx11.0</string>
 	<key>DTXcode</key>
-	<string>1100</string>
+	<string>1220</string>
 	<key>DTXcodeBuild</key>
-	<string>11A420a</string>
+	<string>12B45b</string>
 	<key>LSMinimumSystemVersion</key>
-	<string>10.9</string>
+	<string>10.11</string>
 	<key>NSPrincipalClass</key>
-	<string>SF_Symbol_Template</string>
+	<string>SFSymbolTemplate</string>
 </dict>
 </plist>

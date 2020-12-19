@@ -1,6 +1,9 @@
 /* Export Panel */
 "Choose Folder" = "Vybrat složku.";
 
+/* Choose image file open dialog title. */
+"Choose template file" = "Choose template file";
+
 /* Export Panel */
 "Export Font" = "Exportovat font";
 
@@ -12,9 +15,6 @@
 
 /* Export Panel */
 "Please select a valid folder." = "Vyberte prosím platnou složku.";
-
-/* import menu title */
-"Symbol Template…" = "Symbol Template…";
 
 /* filter error message */
 "This is not a Symbol font" = "This is not a Symbol font";
