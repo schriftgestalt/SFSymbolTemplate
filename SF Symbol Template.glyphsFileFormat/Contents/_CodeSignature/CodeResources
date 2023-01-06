@@ -4,14 +4,52 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Resources/Base.lproj/SFSymbolTemplateDialog.nib</key>
+		<key>Resources/Base.lproj/SFSymbolTemplateDialog.nib/keyedobjects-101300.nib</key>
 		<data>
-		R18OCiwLRSpfS7+7gs2iLnZacdI=
+		F8TrEu0d0gwJhlX5urgPg+1wXDo=
+		</data>
+		<key>Resources/Base.lproj/SFSymbolTemplateDialog.nib/keyedobjects.nib</key>
+		<data>
+		aO9GMJ06stSGQJ2cYJdld/E5jXw=
+		</data>
+		<key>Resources/PanelViewDisplayController.nib/keyedobjects-101300.nib</key>
+		<data>
+		J7ndxltlxNJGbgW45vhj3rGZwBI=
+		</data>
+		<key>Resources/PanelViewDisplayController.nib/keyedobjects.nib</key>
+		<data>
+		J5b7wVAh93y2rYgcCAZtv+YdqbY=
+		</data>
+		<key>Resources/PanelViewStyleController.nib/keyedobjects-101300.nib</key>
+		<data>
+		hCnvfqT9IL6K2WYdMElgeoWn1g4=
+		</data>
+		<key>Resources/PanelViewStyleController.nib/keyedobjects.nib</key>
+		<data>
+		GmM2X+/e29VJwVoDITDxX0R7fFI=
 		</data>
 		<key>Resources/SFSymbolTemplate.pdf</key>
 		<data>
 		oXFYwBFTgoAp1HAfONLvmeGWfzo=
 		</data>
+		<key>Resources/ar.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PWeUjzcUlkM8po5bT4ibPp+0j6E=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/ar.lproj/SFSymbolTemplateDialog.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			aeQjPYlY0MRi7b2HTCZvonf9HQ4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/cs.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
@@ -52,7 +90,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wy7whZ/ipGGcdJbvN5GuhrOI/40=
+			CmIQF8+EOYsuZGiIPSuSxBYa5aY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -61,7 +99,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			g4G6KzLu1fkHGLVflJufrpHFdnM=
+			4DtqLBJmPaGsl3/JC7rUpWJB1Xw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -102,9 +140,21 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/iconTemplate.svg</key>
+		<key>Resources/iconTemplate_v1.svg</key>
 		<data>
-		BMD8FYonHBV8Vf1fQA6EAr14fCY=
+		jh+ZBCrJoAzBMT0UT0V5Tub5j+E=
+		</data>
+		<key>Resources/iconTemplate_v2.svg</key>
+		<data>
+		ikigkt99QcNXYzITnQIpz4jd5SM=
+		</data>
+		<key>Resources/iconTemplate_v3.svg</key>
+		<data>
+		9r8XFhfdA6PjsbUYMNXWwGXafzU=
+		</data>
+		<key>Resources/iconTemplate_variable.svg</key>
+		<data>
+		7ZHcJEnNk63pv25PBrW+DQUYsVY=
 		</data>
 		<key>Resources/it.lproj/Localizable.strings</key>
 		<dict>
@@ -253,15 +303,70 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Resources/Base.lproj/SFSymbolTemplateDialog.nib</key>
+		<key>Resources/Base.lproj/SFSymbolTemplateDialog.nib/keyedobjects-101300.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			R18OCiwLRSpfS7+7gs2iLnZacdI=
+			F8TrEu0d0gwJhlX5urgPg+1wXDo=
 			</data>
 			<key>hash2</key>
 			<data>
-			TkBwJNLC+bLX07nCjPqEgARX5m6M992hYaGLMxyjq3Q=
+			91U9Jj2l8vl99+uV1dKock87XiU6UY7AAihSU4H498I=
+			</data>
+		</dict>
+		<key>Resources/Base.lproj/SFSymbolTemplateDialog.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			aO9GMJ06stSGQJ2cYJdld/E5jXw=
+			</data>
+			<key>hash2</key>
+			<data>
+			7vo5esNUNr21FCivRmGlSYvkYrspJiwIhczzUl/nhJY=
+			</data>
+		</dict>
+		<key>Resources/PanelViewDisplayController.nib/keyedobjects-101300.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			J7ndxltlxNJGbgW45vhj3rGZwBI=
+			</data>
+			<key>hash2</key>
+			<data>
+			tOxLbvGPRYX+IYYOPNljUPxmTZG/B/sZwbSl+YFKuoA=
+			</data>
+		</dict>
+		<key>Resources/PanelViewDisplayController.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			J5b7wVAh93y2rYgcCAZtv+YdqbY=
+			</data>
+			<key>hash2</key>
+			<data>
+			4OS7tAQUh6YgGDs1Vyf3sUSKKx7cZvfehdNjHCt2PzM=
+			</data>
+		</dict>
+		<key>Resources/PanelViewStyleController.nib/keyedobjects-101300.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hCnvfqT9IL6K2WYdMElgeoWn1g4=
+			</data>
+			<key>hash2</key>
+			<data>
+			vIjDFdmWpqDuVF2bgEFyInZp4CM9EyOjqxde4r4zPs8=
+			</data>
+		</dict>
+		<key>Resources/PanelViewStyleController.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GmM2X+/e29VJwVoDITDxX0R7fFI=
+			</data>
+			<key>hash2</key>
+			<data>
+			9OXY6DA82s0HANQ3hYiaqdLmAAjIXQxO68BVGg5/Bc8=
 			</data>
 		</dict>
 		<key>Resources/SFSymbolTemplate.pdf</key>
@@ -274,6 +379,32 @@
 			<data>
 			nJxxuYCseLwAOX5YJbwdosowOcZ8sJD2G/IDNnuOXf4=
 			</data>
+		</dict>
+		<key>Resources/ar.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PWeUjzcUlkM8po5bT4ibPp+0j6E=
+			</data>
+			<key>hash2</key>
+			<data>
+			HznkNVqPywZbGTTz0EZvMXzCVS0kmtuw+HNPHvZCeGU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/ar.lproj/SFSymbolTemplateDialog.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			aeQjPYlY0MRi7b2HTCZvonf9HQ4=
+			</data>
+			<key>hash2</key>
+			<data>
+			m3l8O7zkSnc1o80EKTLJGIJqXobl/3WyL/54t4bF2TY=
+			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
 		<key>Resources/cs.lproj/Localizable.strings</key>
 		<dict>
@@ -331,11 +462,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wy7whZ/ipGGcdJbvN5GuhrOI/40=
+			CmIQF8+EOYsuZGiIPSuSxBYa5aY=
 			</data>
 			<key>hash2</key>
 			<data>
-			Zy3WAzR24MHe81QtdoZY9UOiCZhfrjU6faCdybkx6+o=
+			2lgJn2DTJCyYXYKdwVKagKaQGFCzrxgQ0k7vkIS78Rw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -344,11 +475,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			g4G6KzLu1fkHGLVflJufrpHFdnM=
+			4DtqLBJmPaGsl3/JC7rUpWJB1Xw=
 			</data>
 			<key>hash2</key>
 			<data>
-			XLqhYEEdbRES1DZT1id3iCJ4JuxHjyhdtk2v8Vxaz7g=
+			ZZq+IftW0+1mfqXmbQKYkYX80bpbr3cu1K1/xUwGW54=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -405,15 +536,48 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/iconTemplate.svg</key>
+		<key>Resources/iconTemplate_v1.svg</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BMD8FYonHBV8Vf1fQA6EAr14fCY=
+			jh+ZBCrJoAzBMT0UT0V5Tub5j+E=
 			</data>
 			<key>hash2</key>
 			<data>
-			kzndofZtdyDiank3oRczVo/XUo4oUzJVa9sAdLjJj+E=
+			kOJzyr4imAxkmic6hCUN9nz4A9yvmZ2Y7eQIAnT1DLU=
+			</data>
+		</dict>
+		<key>Resources/iconTemplate_v2.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ikigkt99QcNXYzITnQIpz4jd5SM=
+			</data>
+			<key>hash2</key>
+			<data>
+			Ao2j+LCePlrFh32krQHPS+R9+BWyupvg34hra6teL8c=
+			</data>
+		</dict>
+		<key>Resources/iconTemplate_v3.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9r8XFhfdA6PjsbUYMNXWwGXafzU=
+			</data>
+			<key>hash2</key>
+			<data>
+			IjpqbSN8AS0PqUCqASkBAcZnKqlaD+5vhVliOhNgWTQ=
+			</data>
+		</dict>
+		<key>Resources/iconTemplate_variable.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7ZHcJEnNk63pv25PBrW+DQUYsVY=
+			</data>
+			<key>hash2</key>
+			<data>
+			HZW/RXKPmWY3hXQNW1kQP+lg/yu/5qbD5PmNpKSshuw=
 			</data>
 		</dict>
 		<key>Resources/it.lproj/Localizable.strings</key>

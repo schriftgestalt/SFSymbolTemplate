@@ -2,28 +2,28 @@
 "Accent" = "Accent";
 
 /* No comment provided by engineer. */
-"Black" = "Black";
+"Black" = "أسود";
 
 /* No comment provided by engineer. */
-"Blue" = "Blue";
+"Blue" = "أزرق";
 
 /* No comment provided by engineer. */
-"Brown" = "Brown";
+"Brown" = "بني";
 
 /* Export Panel */
-"Choose Folder" = "Choose Folder";
+"Choose Folder" = "اختر مجلد";
 
 /* Choose image file open dialog title. */
 "Choose template file" = "Choose template file";
 
 /* No comment provided by engineer. */
-"Custom" = "Custom";
+"Custom" = "مخصوص";
 
 /* No comment provided by engineer. */
-"Cyan" = "Cyan";
+"Cyan" = "ازرق";
 
 /* Export Panel */
-"Export Font" = "Export Font";
+"Export Font" = "تصدير الخط";
 
 /* No comment provided by engineer. */
 "Gray" = "Gray";
@@ -44,31 +44,31 @@
 "multiple" = "multiple";
 
 /* No comment provided by engineer. */
-"not set" = "not set";
+"not set" = "غير معين";
 
 /* file open button title. */
-"Open" = "Open";
+"Open" = "فتح";
 
 /* No comment provided by engineer. */
-"Orange" = "Orange";
+"Orange" = "برتقالي";
 
 /* No comment provided by engineer. */
-"Pink" = "Pink";
+"Pink" = "زهري";
 
 /* Export Panel */
-"Please select a valid folder." = "Please select a valid folder.";
+"Please select a valid folder." = "يرجى تحديد مجلد صالح.";
 
 /* No comment provided by engineer. */
 "Primary" = "Primary";
 
 /* No comment provided by engineer. */
-"Purple" = "Purple";
+"Purple" = "بنفسجي";
 
 /* No comment provided by engineer. */
 "Quarternary" = "Quarternary";
 
 /* No comment provided by engineer. */
-"Red" = "Red";
+"Red" = "أحمر";
 
 /* No comment provided by engineer. */
 "Secondary" = "Secondary";
@@ -92,5 +92,5 @@
 "White" = "White";
 
 /* No comment provided by engineer. */
-"Yellow" = "Yellow";
+"Yellow" = "أصفر";
 
