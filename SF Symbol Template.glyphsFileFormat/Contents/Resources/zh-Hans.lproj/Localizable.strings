@@ -1,21 +1,111 @@
+/* No comment provided by engineer. */
+"Accent" = "Accent";
+
+/* No comment provided by engineer. */
+"Black" = "Black";
+
+/* No comment provided by engineer. */
+"Blue" = "蓝色";
+
+/* No comment provided by engineer. */
+"Brown" = "褐色";
+
+/* No comment provided by engineer. */
+"Can’t export a Variable setup into a static template" = "Can’t export a Variable setup into a static template";
+
 /* Export Panel */
 "Choose Folder" = "选取文件夹";
 
 /* Choose image file open dialog title. */
 "Choose template file" = "Choose template file";
 
+/* No comment provided by engineer. */
+"Custom" = "自定义";
+
+/* No comment provided by engineer. */
+"Cyan" = "青色";
+
 /* Export Panel */
 "Export Font" = "导出字体";
+
+/* No comment provided by engineer. */
+"Font is format %@ and file is format %@" = "Font is format %1$@ and file is format %2$@";
+
+/* No comment provided by engineer. */
+"Gray" = "Gray";
+
+/* No comment provided by engineer. */
+"Green" = "Green";
+
+/* No comment provided by engineer. */
+"Importing incompatible template" = "Importing incompatible template";
+
+/* No comment provided by engineer. */
+"Indigo" = "Indigo";
+
+/* No comment provided by engineer. */
+"Invalid axes setup" = "Invalid axes setup";
 
 /* filter error message */
 "It needs a “Weight” and “Size” axis" = "It needs a “Weight” and “Size” axis";
 
+/* No comment provided by engineer. */
+"Mint" = "Mint";
+
+/* No comment provided by engineer. */
+"multiple" = "multiple";
+
+/* No comment provided by engineer. */
+"Not a supported template" = "Not a supported template";
+
+/* No comment provided by engineer. */
+"not set" = "未设定";
+
 /* file open button title. */
 "Open" = "打开";
 
+/* No comment provided by engineer. */
+"Orange" = "橙色";
+
+/* No comment provided by engineer. */
+"Pink" = "粉色";
+
 /* Export Panel */
-"Please select a valid folder." = "请选择有效的文件夹";
+"Please select a valid folder." = "请选择有效的文件夹。";
+
+/* No comment provided by engineer. */
+"Primary" = "Primary";
+
+/* No comment provided by engineer. */
+"Purple" = "紫色";
+
+/* No comment provided by engineer. */
+"Quarternary" = "Quarternary";
+
+/* No comment provided by engineer. */
+"Red" = "红色";
+
+/* No comment provided by engineer. */
+"Secondary" = "Secondary";
+
+/* No comment provided by engineer. */
+"Symbol Style" = "Symbol Style";
+
+/* Menu item title */
+"Symbol Template…" = "Symbol Template…";
+
+/* No comment provided by engineer. */
+"Teal" = "Teal";
+
+/* No comment provided by engineer. */
+"Tertiary" = "Tertiary";
 
 /* filter error message */
 "This is not a Symbol font" = "This is not a Symbol font";
+
+/* No comment provided by engineer. */
+"White" = "White";
+
+/* No comment provided by engineer. */
+"Yellow" = "黄色";
 

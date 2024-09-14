@@ -1,21 +1,111 @@
+/* No comment provided by engineer. */
+"Accent" = "Akzentfarbe";
+
+/* No comment provided by engineer. */
+"Black" = "Schwarz";
+
+/* No comment provided by engineer. */
+"Blue" = "Blau";
+
+/* No comment provided by engineer. */
+"Brown" = "Braun";
+
+/* No comment provided by engineer. */
+"Can’t export a Variable setup into a static template" = "Ein Variablen-Setup kann nicht in eine statische Vorlage exportiert werden";
+
 /* Export Panel */
 "Choose Folder" = "Ordner auswählen";
 
 /* Choose image file open dialog title. */
-"Choose template file" = "Wählen sie eine Template-Datei";
+"Choose template file" = "Vorlagendatei auswählen";
+
+/* No comment provided by engineer. */
+"Custom" = "Benutzer";
+
+/* No comment provided by engineer. */
+"Cyan" = "Cyan";
 
 /* Export Panel */
 "Export Font" = "Exportiere Schrift";
 
+/* No comment provided by engineer. */
+"Font is format %@ and file is format %@" = "Die Schriftart hat das Format %1$@ und die Datei das Format %2$@";
+
+/* No comment provided by engineer. */
+"Gray" = "Grau";
+
+/* No comment provided by engineer. */
+"Green" = "Grün";
+
+/* No comment provided by engineer. */
+"Importing incompatible template" = "Importieren einer inkompatiblen Vorlage";
+
+/* No comment provided by engineer. */
+"Indigo" = "Indigo";
+
+/* No comment provided by engineer. */
+"Invalid axes setup" = "Ungültige Achseneinstellung";
+
 /* filter error message */
-"It needs a “Weight” and “Size” axis" = "Es muss eine „Weight“ und „Width“ Achse existieren";
+"It needs a “Weight” and “Size” axis" = "Es braucht eine „Gewicht“- und eine „Größe“-Achse";
+
+/* No comment provided by engineer. */
+"Mint" = "Mint";
+
+/* No comment provided by engineer. */
+"multiple" = "mehrere";
+
+/* No comment provided by engineer. */
+"Not a supported template" = "Diese Vorlage ist nicht kompatible";
+
+/* No comment provided by engineer. */
+"not set" = "nicht gesetzt";
 
 /* file open button title. */
 "Open" = "Öffnen";
 
+/* No comment provided by engineer. */
+"Orange" = "Orange";
+
+/* No comment provided by engineer. */
+"Pink" = "Rosa";
+
 /* Export Panel */
-"Please select a valid folder." = "Bitte wählen Sie einen existierenden Ordner.";
+"Please select a valid folder." = "Bitte einen gültigen Ordner wählen!";
+
+/* No comment provided by engineer. */
+"Primary" = "Primär";
+
+/* No comment provided by engineer. */
+"Purple" = "Violett";
+
+/* No comment provided by engineer. */
+"Quarternary" = "Quartär";
+
+/* No comment provided by engineer. */
+"Red" = "Rot";
+
+/* No comment provided by engineer. */
+"Secondary" = "Sekundär";
+
+/* No comment provided by engineer. */
+"Symbol Style" = "Symbolstil";
+
+/* Menu item title */
+"Symbol Template…" = "Symbol Vorlage…";
+
+/* No comment provided by engineer. */
+"Teal" = "Blaugrün";
+
+/* No comment provided by engineer. */
+"Tertiary" = "Tertiär";
 
 /* filter error message */
 "This is not a Symbol font" = "Das ist keine Symbol-Schrift";
+
+/* No comment provided by engineer. */
+"White" = "Weiß";
+
+/* No comment provided by engineer. */
+"Yellow" = "Gelb";
 

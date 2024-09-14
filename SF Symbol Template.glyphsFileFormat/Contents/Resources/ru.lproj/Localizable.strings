@@ -1,21 +1,111 @@
+/* No comment provided by engineer. */
+"Accent" = "Accent";
+
+/* No comment provided by engineer. */
+"Black" = "Black (чёрное)";
+
+/* No comment provided by engineer. */
+"Blue" = "Синий";
+
+/* No comment provided by engineer. */
+"Brown" = "Коричневый";
+
+/* No comment provided by engineer. */
+"Can’t export a Variable setup into a static template" = "Can’t export a Variable setup into a static template";
+
 /* Export Panel */
-"Choose Folder" = "Выберите папку";
+"Choose Folder" = "Выберите папку.";
 
 /* Choose image file open dialog title. */
 "Choose template file" = "Choose template file";
 
+/* No comment provided by engineer. */
+"Custom" = "Настроенное";
+
+/* No comment provided by engineer. */
+"Cyan" = "Голубой";
+
 /* Export Panel */
 "Export Font" = "Экспортировать";
+
+/* No comment provided by engineer. */
+"Font is format %@ and file is format %@" = "Font is format %1$@ and file is format %2$@";
+
+/* No comment provided by engineer. */
+"Gray" = "Gray";
+
+/* No comment provided by engineer. */
+"Green" = "Green";
+
+/* No comment provided by engineer. */
+"Importing incompatible template" = "Importing incompatible template";
+
+/* No comment provided by engineer. */
+"Indigo" = "Indigo";
+
+/* No comment provided by engineer. */
+"Invalid axes setup" = "Invalid axes setup";
 
 /* filter error message */
 "It needs a “Weight” and “Size” axis" = "It needs a “Weight” and “Size” axis";
 
+/* No comment provided by engineer. */
+"Mint" = "Mint";
+
+/* No comment provided by engineer. */
+"multiple" = "multiple";
+
+/* No comment provided by engineer. */
+"Not a supported template" = "Not a supported template";
+
+/* No comment provided by engineer. */
+"not set" = "не задано";
+
 /* file open button title. */
 "Open" = "Открыть";
 
+/* No comment provided by engineer. */
+"Orange" = "Оранжевый";
+
+/* No comment provided by engineer. */
+"Pink" = "Розовый";
+
 /* Export Panel */
-"Please select a valid folder." = "Пожалуйста, выберите существующую папку.";
+"Please select a valid folder." = "Пожалуйста, выберите действующую папку.";
+
+/* No comment provided by engineer. */
+"Primary" = "Primary";
+
+/* No comment provided by engineer. */
+"Purple" = "Фиолетовый";
+
+/* No comment provided by engineer. */
+"Quarternary" = "Quarternary";
+
+/* No comment provided by engineer. */
+"Red" = "Красный";
+
+/* No comment provided by engineer. */
+"Secondary" = "Secondary";
+
+/* No comment provided by engineer. */
+"Symbol Style" = "Symbol Style";
+
+/* Menu item title */
+"Symbol Template…" = "Symbol Template…";
+
+/* No comment provided by engineer. */
+"Teal" = "Teal";
+
+/* No comment provided by engineer. */
+"Tertiary" = "Tertiary";
 
 /* filter error message */
 "This is not a Symbol font" = "This is not a Symbol font";
+
+/* No comment provided by engineer. */
+"White" = "White";
+
+/* No comment provided by engineer. */
+"Yellow" = "Желтый";
 

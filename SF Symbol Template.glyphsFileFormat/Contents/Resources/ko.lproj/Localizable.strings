@@ -1,21 +1,111 @@
+/* No comment provided by engineer. */
+"Accent" = "악센트";
+
+/* No comment provided by engineer. */
+"Black" = "검은색";
+
+/* No comment provided by engineer. */
+"Blue" = "파란색";
+
+/* No comment provided by engineer. */
+"Brown" = "갈색";
+
+/* No comment provided by engineer. */
+"Can’t export a Variable setup into a static template" = "Can’t export a Variable setup into a static template";
+
 /* Export Panel */
 "Choose Folder" = "폴더 선택";
 
 /* Choose image file open dialog title. */
 "Choose template file" = "Choose template file";
 
+/* No comment provided by engineer. */
+"Custom" = "사용자 정의";
+
+/* No comment provided by engineer. */
+"Cyan" = "하늘색";
+
 /* Export Panel */
 "Export Font" = "폰트 내보내기";
+
+/* No comment provided by engineer. */
+"Font is format %@ and file is format %@" = "Font is format %1$@ and file is format %2$@";
+
+/* No comment provided by engineer. */
+"Gray" = "회색";
+
+/* No comment provided by engineer. */
+"Green" = "녹색 기장";
+
+/* No comment provided by engineer. */
+"Importing incompatible template" = "Importing incompatible template";
+
+/* No comment provided by engineer. */
+"Indigo" = "남빛";
+
+/* No comment provided by engineer. */
+"Invalid axes setup" = "Invalid axes setup";
 
 /* filter error message */
 "It needs a “Weight” and “Size” axis" = "It needs a “Weight” and “Size” axis";
 
+/* No comment provided by engineer. */
+"Mint" = "박하";
+
+/* No comment provided by engineer. */
+"multiple" = "다중 값";
+
+/* No comment provided by engineer. */
+"Not a supported template" = "Not a supported template";
+
+/* No comment provided by engineer. */
+"not set" = "설정되지 않은";
+
 /* file open button title. */
 "Open" = "열기";
 
+/* No comment provided by engineer. */
+"Orange" = "주황색";
+
+/* No comment provided by engineer. */
+"Pink" = "분홍색";
+
 /* Export Panel */
-"Please select a valid folder." = "유효한 폴더를 선택하세요.";
+"Please select a valid folder." = "Please select a valid folder.";
+
+/* No comment provided by engineer. */
+"Primary" = "주요한";
+
+/* No comment provided by engineer. */
+"Purple" = "보라색";
+
+/* No comment provided by engineer. */
+"Quarternary" = "Quarternary";
+
+/* No comment provided by engineer. */
+"Red" = "빨간색";
+
+/* No comment provided by engineer. */
+"Secondary" = "반성";
+
+/* No comment provided by engineer. */
+"Symbol Style" = "Symbol Style";
+
+/* Menu item title */
+"Symbol Template…" = "Symbol Template…";
+
+/* No comment provided by engineer. */
+"Teal" = "물오리";
+
+/* No comment provided by engineer. */
+"Tertiary" = "제삼기";
 
 /* filter error message */
 "This is not a Symbol font" = "This is not a Symbol font";
+
+/* No comment provided by engineer. */
+"White" = "하얀색";
+
+/* No comment provided by engineer. */
+"Yellow" = "노란색";
 

@@ -1,0 +1,36 @@
+
+/* Class = "NSButtonCell"; title = "All glyphs "; ObjectID = "8bk-8b-ctY"; */
+"8bk-8b-ctY.title" = "所有字形";
+
+/* Class = "NSMenuItem"; title = "Format 2"; ObjectID = "CIW-Pi-YhJ"; */
+"CIW-Pi-YhJ.title" = "格式 2";
+
+/* Class = "NSButtonCell"; title = "Selected"; ObjectID = "GGH-Eu-7dQ"; */
+"GGH-Eu-7dQ.title" = "选定";
+
+/* Class = "NSTextFieldCell"; title = "Export Destination"; ObjectID = "MdI-oW-YbX"; */
+"MdI-oW-YbX.title" = "导出位置";
+
+/* Class = "NSMenuItem"; title = "Format 4 Variable"; ObjectID = "ODP-u4-C4g"; */
+"ODP-u4-C4g.title" = "格式 4 变量";
+
+/* Class = "NSMenuItem"; title = "Format 5 Variable"; ObjectID = "Tu5-xP-8Dv"; */
+"Tu5-xP-8Dv.title" = "格式 5 变量";
+
+/* Class = "NSMenuItem"; title = "Format 1"; ObjectID = "bna-l4-xi7"; */
+"bna-l4-xi7.title" = "格式 1";
+
+/* Class = "NSMenuItem"; title = "Format 3 Static"; ObjectID = "hFY-YA-6TE"; */
+"hFY-YA-6TE.title" = "格式 3 静态";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "jGk-rF-xGo"; */
+"jGk-rF-xGo.title" = "Radio";
+
+/* Class = "NSTextFieldCell"; title = "Format"; ObjectID = "pA5-lz-Loq"; */
+"pA5-lz-Loq.title" = "格式";
+
+/* Class = "NSTextFieldCell"; title = "Export"; ObjectID = "wYv-js-2J9"; */
+"wYv-js-2J9.title" = "导出";
+
+/* Class = "NSMenuItem"; title = "Format 6 Variable"; ObjectID = "ya8-61-OLw"; */
+"ya8-61-OLw.title" = "格式 6 变量";

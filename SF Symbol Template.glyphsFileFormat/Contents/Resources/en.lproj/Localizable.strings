@@ -10,6 +10,9 @@
 /* No comment provided by engineer. */
 "Brown" = "Brown";
 
+/* No comment provided by engineer. */
+"Can’t export a Variable setup into a static template" = "Can’t export a Variable setup into a static template";
+
 /* Export Panel */
 "Choose Folder" = "Choose Folder";
 
@@ -26,13 +29,22 @@
 "Export Font" = "Export Font";
 
 /* No comment provided by engineer. */
+"Font is format %@ and file is format %@" = "Font is format %1$@ and file is format %2$@";
+
+/* No comment provided by engineer. */
 "Gray" = "Gray";
 
 /* No comment provided by engineer. */
 "Green" = "Green";
 
 /* No comment provided by engineer. */
+"Importing incompatible template" = "Importing incompatible template";
+
+/* No comment provided by engineer. */
 "Indigo" = "Indigo";
+
+/* No comment provided by engineer. */
+"Invalid axes setup" = "Invalid axes setup";
 
 /* filter error message */
 "It needs a “Weight” and “Size” axis" = "It needs a “Weight” and “Size” axis";
@@ -42,6 +54,9 @@
 
 /* No comment provided by engineer. */
 "multiple" = "multiple";
+
+/* No comment provided by engineer. */
+"Not a supported template" = "Not a supported template";
 
 /* No comment provided by engineer. */
 "not set" = "not set";

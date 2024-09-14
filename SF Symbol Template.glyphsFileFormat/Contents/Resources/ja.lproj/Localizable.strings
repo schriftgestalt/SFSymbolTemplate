@@ -1,21 +1,111 @@
+/* No comment provided by engineer. */
+"Accent" = "Accent";
+
+/* No comment provided by engineer. */
+"Black" = "ブラック";
+
+/* No comment provided by engineer. */
+"Blue" = "青";
+
+/* No comment provided by engineer. */
+"Brown" = "茶色";
+
+/* No comment provided by engineer. */
+"Can’t export a Variable setup into a static template" = "Can’t export a Variable setup into a static template";
+
 /* Export Panel */
-"Choose Folder" = "フォルダを選択してください。";
+"Choose Folder" = "フォルダを選択";
 
 /* Choose image file open dialog title. */
 "Choose template file" = "Choose template file";
 
+/* No comment provided by engineer. */
+"Custom" = "カスタム";
+
+/* No comment provided by engineer. */
+"Cyan" = "シアン";
+
 /* Export Panel */
 "Export Font" = "フォントを出力";
+
+/* No comment provided by engineer. */
+"Font is format %@ and file is format %@" = "Font is format %1$@ and file is format %2$@";
+
+/* No comment provided by engineer. */
+"Gray" = "Gray";
+
+/* No comment provided by engineer. */
+"Green" = "Green";
+
+/* No comment provided by engineer. */
+"Importing incompatible template" = "Importing incompatible template";
+
+/* No comment provided by engineer. */
+"Indigo" = "Indigo";
+
+/* No comment provided by engineer. */
+"Invalid axes setup" = "Invalid axes setup";
 
 /* filter error message */
 "It needs a “Weight” and “Size” axis" = "It needs a “Weight” and “Size” axis";
 
+/* No comment provided by engineer. */
+"Mint" = "Mint";
+
+/* No comment provided by engineer. */
+"multiple" = "multiple";
+
+/* No comment provided by engineer. */
+"Not a supported template" = "Not a supported template";
+
+/* No comment provided by engineer. */
+"not set" = "未設定";
+
 /* file open button title. */
 "Open" = "開く";
 
+/* No comment provided by engineer. */
+"Orange" = "オレンジ";
+
+/* No comment provided by engineer. */
+"Pink" = "ピンク";
+
 /* Export Panel */
-"Please select a valid folder." = "有効なフォルダを指定してください。";
+"Please select a valid folder." = "Please select a valid folder.";
+
+/* No comment provided by engineer. */
+"Primary" = "Primary";
+
+/* No comment provided by engineer. */
+"Purple" = "紫";
+
+/* No comment provided by engineer. */
+"Quarternary" = "Quarternary";
+
+/* No comment provided by engineer. */
+"Red" = "赤";
+
+/* No comment provided by engineer. */
+"Secondary" = "Secondary";
+
+/* No comment provided by engineer. */
+"Symbol Style" = "Symbol Style";
+
+/* Menu item title */
+"Symbol Template…" = "Symbol Template…";
+
+/* No comment provided by engineer. */
+"Teal" = "Teal";
+
+/* No comment provided by engineer. */
+"Tertiary" = "Tertiary";
 
 /* filter error message */
 "This is not a Symbol font" = "This is not a Symbol font";
+
+/* No comment provided by engineer. */
+"White" = "White";
+
+/* No comment provided by engineer. */
+"Yellow" = "黄色";
 

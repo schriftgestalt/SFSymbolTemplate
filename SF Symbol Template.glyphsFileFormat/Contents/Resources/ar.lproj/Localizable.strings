@@ -10,6 +10,9 @@
 /* No comment provided by engineer. */
 "Brown" = "بني";
 
+/* No comment provided by engineer. */
+"Can’t export a Variable setup into a static template" = "Can’t export a Variable setup into a static template";
+
 /* Export Panel */
 "Choose Folder" = "اختر مجلد";
 
@@ -26,22 +29,34 @@
 "Export Font" = "تصدير الخط";
 
 /* No comment provided by engineer. */
-"Gray" = "Gray";
+"Font is format %@ and file is format %@" = "Font is format %1$@ and file is format %2$@";
 
 /* No comment provided by engineer. */
-"Green" = "Green";
+"Gray" = "رمادي";
 
 /* No comment provided by engineer. */
-"Indigo" = "Indigo";
+"Green" = "أخضر";
+
+/* No comment provided by engineer. */
+"Importing incompatible template" = "Importing incompatible template";
+
+/* No comment provided by engineer. */
+"Indigo" = "نيلي";
+
+/* No comment provided by engineer. */
+"Invalid axes setup" = "Invalid axes setup";
 
 /* filter error message */
 "It needs a “Weight” and “Size” axis" = "It needs a “Weight” and “Size” axis";
 
 /* No comment provided by engineer. */
-"Mint" = "Mint";
+"Mint" = "نعناع";
 
 /* No comment provided by engineer. */
 "multiple" = "multiple";
+
+/* No comment provided by engineer. */
+"Not a supported template" = "Not a supported template";
 
 /* No comment provided by engineer. */
 "not set" = "غير معين";
@@ -56,7 +71,7 @@
 "Pink" = "زهري";
 
 /* Export Panel */
-"Please select a valid folder." = "يرجى تحديد مجلد صالح.";
+"Please select a valid folder." = "Please select a valid folder.";
 
 /* No comment provided by engineer. */
 "Primary" = "Primary";
@@ -80,7 +95,7 @@
 "Symbol Template…" = "Symbol Template…";
 
 /* No comment provided by engineer. */
-"Teal" = "Teal";
+"Teal" = "أزرق مخضر";
 
 /* No comment provided by engineer. */
 "Tertiary" = "Tertiary";
@@ -89,7 +104,7 @@
 "This is not a Symbol font" = "This is not a Symbol font";
 
 /* No comment provided by engineer. */
-"White" = "White";
+"White" = "أبيض";
 
 /* No comment provided by engineer. */
 "Yellow" = "أصفر";
