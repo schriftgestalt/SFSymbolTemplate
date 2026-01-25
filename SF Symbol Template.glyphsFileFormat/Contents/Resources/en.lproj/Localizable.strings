@@ -56,10 +56,16 @@
 "multiple" = "multiple";
 
 /* No comment provided by engineer. */
+"No Glyphs selected or all are set to not export" = "No Glyphs selected or all are set to not export";
+
+/* No comment provided by engineer. */
 "Not a supported template" = "Not a supported template";
 
 /* No comment provided by engineer. */
 "not set" = "not set";
+
+/* No comment provided by engineer. */
+"Nothing was exported" = "Nothing was exported";
 
 /* file open button title. */
 "Open" = "Open";

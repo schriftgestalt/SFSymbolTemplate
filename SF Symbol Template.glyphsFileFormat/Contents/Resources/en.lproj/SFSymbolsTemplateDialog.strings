@@ -1,36 +1,33 @@
 
-/* Class = "NSButtonCell"; title = "All glyphs "; ObjectID = "8bk-8b-ctY"; */
+/* All glyphs  */
 "8bk-8b-ctY.title" = "All glyphs ";
 
-/* Class = "NSMenuItem"; title = "Format 2"; ObjectID = "CIW-Pi-YhJ"; */
+/* Format 2 */
 "CIW-Pi-YhJ.title" = "Format 2";
 
-/* Class = "NSButtonCell"; title = "Selected"; ObjectID = "GGH-Eu-7dQ"; */
+/* Selected */
 "GGH-Eu-7dQ.title" = "Selected";
 
-/* Class = "NSTextFieldCell"; title = "Export Destination"; ObjectID = "MdI-oW-YbX"; */
+/* Export Destination */
 "MdI-oW-YbX.title" = "Export Destination";
 
-/* Class = "NSMenuItem"; title = "Format 4 Variable"; ObjectID = "ODP-u4-C4g"; */
+/* Format 4 Variable */
 "ODP-u4-C4g.title" = "Format 4 Variable";
 
-/* Class = "NSMenuItem"; title = "Format 5 Variable"; ObjectID = "Tu5-xP-8Dv"; */
+/* Format 5 Variable */
 "Tu5-xP-8Dv.title" = "Format 5 Variable";
 
-/* Class = "NSMenuItem"; title = "Format 1"; ObjectID = "bna-l4-xi7"; */
+/* Format 1 */
 "bna-l4-xi7.title" = "Format 1";
 
-/* Class = "NSMenuItem"; title = "Format 3 Static"; ObjectID = "hFY-YA-6TE"; */
+/* Format 3 Static */
 "hFY-YA-6TE.title" = "Format 3 Static";
 
-/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "jGk-rF-xGo"; */
-"jGk-rF-xGo.title" = "Radio";
-
-/* Class = "NSTextFieldCell"; title = "Format"; ObjectID = "pA5-lz-Loq"; */
+/* Format */
 "pA5-lz-Loq.title" = "Format";
 
-/* Class = "NSTextFieldCell"; title = "Export"; ObjectID = "wYv-js-2J9"; */
+/* Export */
 "wYv-js-2J9.title" = "Export";
 
-/* Class = "NSMenuItem"; title = "Format 6 Variable"; ObjectID = "ya8-61-OLw"; */
+/* Format 6 Variable */
 "ya8-61-OLw.title" = "Format 6 Variable";

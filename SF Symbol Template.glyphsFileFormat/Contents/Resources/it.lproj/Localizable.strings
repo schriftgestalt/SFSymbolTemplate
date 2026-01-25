@@ -56,10 +56,16 @@
 "multiple" = "multiple";
 
 /* No comment provided by engineer. */
+"No Glyphs selected or all are set to not export" = "No Glyphs selected or all are set to not export";
+
+/* No comment provided by engineer. */
 "Not a supported template" = "Not a supported template";
 
 /* No comment provided by engineer. */
 "not set" = "Non assegnato";
+
+/* No comment provided by engineer. */
+"Nothing was exported" = "Nothing was exported";
 
 /* file open button title. */
 "Open" = "Apri";
@@ -71,7 +77,7 @@
 "Pink" = "Rosa";
 
 /* Export Panel */
-"Please select a valid folder." = "Please select a valid folder.";
+"Please select a valid folder." = "Selezionare una cartella valida";
 
 /* No comment provided by engineer. */
 "Primary" = "Primary";

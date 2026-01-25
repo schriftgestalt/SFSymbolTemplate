@@ -56,10 +56,16 @@
 "multiple" = "mehrere";
 
 /* No comment provided by engineer. */
+"No Glyphs selected or all are set to not export" = "Keine Glyphen ausgewählt oder alle sind auf „nicht exportieren“ gesetzt.";
+
+/* No comment provided by engineer. */
 "Not a supported template" = "Diese Vorlage ist nicht kompatible";
 
 /* No comment provided by engineer. */
 "not set" = "nicht gesetzt";
+
+/* No comment provided by engineer. */
+"Nothing was exported" = "Es konnte nichts exportiert werden";
 
 /* file open button title. */
 "Open" = "Öffnen";
