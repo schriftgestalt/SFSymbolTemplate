@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>22G830</string>
+	<string>22H730</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDocumentTypes</key>
@@ -32,13 +32,13 @@
 	<key>CFBundleName</key>
 	<string>SFSymbolsTemplate</string>
 	<key>CFBundleShortVersionString</key>
-	<string>3.3</string>
+	<string>3.5</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>3317</string>
+	<string>3513</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -57,6 +57,8 @@
 	<string>14A400</string>
 	<key>LSMinimumSystemVersion</key>
 	<string>10.11</string>
+	<key>MaxGlyphsVersion</key>
+	<string>3.9</string>
 	<key>NSPrincipalClass</key>
 	<string>SFSymbolsTemplate</string>
 </dict>
